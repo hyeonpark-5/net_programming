@@ -1,0 +1,12 @@
+Tue Apr 11 16:52:07 2023 device1: Temp=11 Humid=96 ilum=147Tue Apr 11 18:11:18 2023: device1: Temp=14 Humid=71 ilum=104
+Tue Apr 11 18:11:18 2023: device1: Temp=28 Humid=23 ilum=77
+Tue Apr 11 18:11:18 2023: device1: Temp=20 Humid=68 ilum=138
+Tue Apr 11 18:11:18 2023: device1: Temp=6 Humid=85 ilum=109
+Tue Apr 11 18:11:18 2023: device2: Heartbeat=54 Steps=5811 Cal=1464
+Tue Apr 11 18:11:18 2023: device1: Temp=34 Humid=83 ilum=128
+Tue Apr 11 18:11:18 2023: device2: Heartbeat=128 Steps=4675 Cal=3439
+Tue Apr 11 18:11:18 2023: device2: Heartbeat=77 Steps=4854 Cal=2609
+Tue Apr 11 18:11:18 2023: device2: Heartbeat=101 Steps=5299 Cal=2054
+Tue Apr 11 18:11:18 2023: device2: Heartbeat=55 Steps=3463 Cal=3823
+Tue Apr 11 18:11:18 2023: device1: Temp=18 Humid=31 ilum=113
+Tue Apr 11 18:11:18 2023: device2: Heartbeat=99 Steps=3900 Cal=2920
